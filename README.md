@@ -1,1 +1,3 @@
 # tempsensor
+
+#humidity and temperature
