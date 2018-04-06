@@ -1,3 +1,5 @@
+#Python 2.7
+
 import pigpio
 from time import sleep
 import time
